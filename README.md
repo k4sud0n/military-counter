@@ -1,3 +1,7 @@
 # 전역일 계산기
 
-2023년 8월 7일이 올까요?
+![thumbnail](/public/thumbnail.png)
+
+[DEMO](https://k4sud0n.kro.kr)
+
+전역일 계산기입니다. 2023년 8월 7일이 올까요?
