@@ -2,6 +2,6 @@
 
 ![thumbnail](/public/thumbnail.png)
 
-[DEMO](https://dday.sihyun.codes)
+[DEMO](https://sihyun.codes)
 
 전역일 계산기입니다. 2023년 8월 7일이 올까요?
